@@ -2,6 +2,8 @@
 
 This repo is an example of how to use [expo-maps](https://docs.expo.dev/versions/latest/sdk/maps/), demonstrating various features and capabilities of maps in React Native with Expo.
 
+Watch the video for a step-by-step walkthrough of Expo Maps: [Expo Maps Deep Dive](https://youtu.be/jDCuaIQ9vd0)
+
 ## Table of Contents
 
 1. [Installation](#installation)
