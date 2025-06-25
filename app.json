@@ -28,7 +28,8 @@
         "googleMaps": {
           "apiKey": "your-api-key-here"
         }
-      }
+      },
+      "package": "com.betoatexpo.expomapsexample"
     },
     "web": {
       "bundler": "metro",
