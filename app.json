@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "expo-maps-example",
-    "slug": "expo-maps-example",
+    "slug": "expo-maps-geralddanuco",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -29,7 +29,7 @@
           "apiKey": "your-api-key-here"
         }
       },
-      "package": "com.betoatexpo.expomapsexample"
+      "package": "com.geralddanuco.expomapsexample"
     },
     "web": {
       "bundler": "metro",
@@ -61,9 +61,9 @@
     "extra": {
       "router": {},
       "eas": {
-        "projectId": "6a197334-3cdd-4185-894d-a463608b290a"
+        "projectId": "855f322a-aec8-42b5-9846-ff73ddf8bdc8"
       }
     },
-    "owner": "betoatexpo"
+    "owner": "geralddanuco"
   }
 }
